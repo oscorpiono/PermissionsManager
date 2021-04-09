@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion Des Droit D'access", "Gestion Des Droit D'access\Gestion Des Droit D'access.csproj", "{62A422BA-EE5E-4E92-880B-BFBFED92968D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A422BA-EE5E-4E92-880B-BFBFED92968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A422BA-EE5E-4E92-880B-BFBFED92968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A422BA-EE5E-4E92-880B-BFBFED92968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A422BA-EE5E-4E92-880B-BFBFED92968D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3821F3A6-AF75-4B7D-BBAA-CC2F8A25BB07}
+	EndGlobalSection
+EndGlobal
